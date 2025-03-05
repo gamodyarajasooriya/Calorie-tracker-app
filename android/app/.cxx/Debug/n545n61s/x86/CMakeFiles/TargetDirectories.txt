@@ -1,0 +1,2 @@
+C:/Users/ASUS TUF/Desktop/g_flutter/Calorie Tracker App/android/app/.cxx/Debug/n545n61s/x86/CMakeFiles/edit_cache.dir
+C:/Users/ASUS TUF/Desktop/g_flutter/Calorie Tracker App/android/app/.cxx/Debug/n545n61s/x86/CMakeFiles/rebuild_cache.dir

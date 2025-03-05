@@ -1,0 +1,2 @@
+C:/Users/ASUS TUF/Desktop/g_flutter/flutter_advance1/android/app/.cxx/RelWithDebInfo/48z55411/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ASUS TUF/Desktop/g_flutter/flutter_advance1/android/app/.cxx/RelWithDebInfo/48z55411/arm64-v8a/CMakeFiles/rebuild_cache.dir
